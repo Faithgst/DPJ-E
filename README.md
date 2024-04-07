@@ -1,10 +1,11 @@
 # DPJ-E
 
-Nama    : Faith Greatfull Samuel Taressy
-NIM     : 672021156
+Nama    : Faith Greatfull Samuel Taressy.
+NIM     : 672021156.
 
 
 Tugas 1 - Chatbot:
+
 Chatbot yang berbasis json memampukan user nya untuk melatih bot/menambah line of command melalui file json tanpa menggunakan api.
 
 File yang terkandung:
@@ -13,7 +14,10 @@ File yang terkandung:
 - "tc614_tugas_dpj_e_672021156.py"  = file utama chatbot yang menjalankan fungsi utama seperti inputan user dan feedback dari chatbot tersebut.
 
 Note:
-file "random_responses.py" tidak dijalankan, hanya sebagai modul untuk file utama "tc614_tugas_dpj_e_672021156.py"
+file "random_responses.py" dan "bot.json" tidak dijalankan, hanya sebagai modul untuk file utama "tc614_tugas_dpj_e_672021156.py"
+
+Link Pengerjaan:
+- https://colab.research.google.com/drive/109MmxewMGeL9b1R2eoqRZ6Xco0AFthkN?usp=sharing
 
 
 Author:
